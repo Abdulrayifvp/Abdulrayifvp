@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 ---
 
 ## 🔥 Current Projects
-- **🌆 [Tourist Website for Dubai](https://github.com/Abdulrayifvp/tourist-website-dubai)**: A platform to browse tourist places in Dubai and book tickets, built using Node.js, Express, EJS, and MongoDB.
+- **🌆 [Tourist Website for F&S Adv Tourism]([https://github.com/Abdulrayifvp/](https://github.com/Abdulrayifvp/F-AND-S-WEB))**: A platform to browse tourist places in Dubai, built using Node.js, Express, EJS, and MongoDB.
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 ---
 
 ## 🌟 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrayifvp&repo=tourist-website-dubai&theme=radical)](https://github.com/Abdulrayifvp/tourist-website-dubai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrayifvp&repo=F-AND-S-WEB&theme=radical)](https://github.com/Abdulrayifvp/F-AND-S-WEB)
 
 ---
 

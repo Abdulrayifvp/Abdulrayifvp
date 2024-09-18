@@ -42,9 +42,4 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 
 ---
 
-## 🗓️ My Contributions
-![Contribution Graph](https://github.com/yourusername/yourrepo/assets/contribution-graph.png)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulrayifvp&color=blue)

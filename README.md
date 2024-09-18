@@ -31,12 +31,6 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 
 ---
 
-## 🌟 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrayifvp&repo=F-AND-S-WEB&theme=radical)](https://github.com/Abdulrayifvp/F-AND-S-WEB)
-
----
-
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/rayifvp/)
 - 📷 [Instagram](https://www.instagram.com/rayif_vp/)

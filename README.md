@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Abdul Rayif
 
 Welcome to my GitHub profile! I'm a software engineering enthusiast passionate about web development. I love creating innovative solutions using **Node.js**, **Express**, **EJS**, and **MongoDB**.
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Backend**: Node.js, Express.js
-- **Frontend**: EJS, React
+- **Frontend**: EJS, React, Angular
 - **Database**: MongoDB, SQL
 - **Tools**: Git, GitHub, VS Code
 - **Currently Exploring**: AI/ML Integration, Cloud Computing
@@ -43,6 +43,3 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 - ✉️ Email: rayifvp@gmail.com
 
 ---
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulrayifvp&color=blue)

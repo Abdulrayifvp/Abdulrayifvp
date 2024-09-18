@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 
 ---
 
-## 🗓️ Commit Grids
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdulrayifvp&theme=radical)
+## 🗓️ My Contributions
+![Contribution Graph](https://github.com/yourusername/yourrepo/assets/contribution-graph.png)
 
 ---
 

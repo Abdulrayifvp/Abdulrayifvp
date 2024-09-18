@@ -22,12 +22,16 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 ---
 
 ## 🔥 Current Projects
-- **🌆 [Tourist Website for F&S Adv Tourism]([https://github.com/Abdulrayifvp/](https://github.com/Abdulrayifvp/F-AND-S-WEB))**: A platform to browse tourist places in Dubai, built using Node.js, Express, EJS, and MongoDB.
+- **🌆 [Tourist Website for F&S Adv Tourism](https://github.com/Abdulrayifvp/F-AND-S-WEB)**: A platform to browse tourist places in Dubai, built using Node.js, Express, EJS, and MongoDB.
 
 ---
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulrayifvp&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulrayifvp&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrayifvp&layout=compact&theme=radical)
 
 ---
 
@@ -37,3 +41,10 @@ Welcome to my GitHub profile! I'm a software engineering enthusiast passionate a
 - ✉️ Email: rayifvp@gmail.com
 
 ---
+
+## 🗓️ Commit Grids
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdulrayifvp&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulrayifvp&color=blue)
